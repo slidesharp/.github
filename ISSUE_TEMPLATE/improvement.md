@@ -1,7 +1,7 @@
 ---
 name: Improvement
 about: Suggest a change to something that already exists
-labels: improvement
+labels: enhancement
 ---
 
 ## What should change

@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: Describe a new feature or change
-labels: feature
+labels: enhancement
 ---
 
 ## What should happen
